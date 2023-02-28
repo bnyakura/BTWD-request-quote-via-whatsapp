@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Request quote via WhatsApp
  * Description: Easily add Whatsapp link to request quote in woocommerce product.
- * Plugin URI: https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash
+ * Plugin URI: https://github.com/bnyakura/BTWD-request-quote-via-whatsapp
  * Author: Brandon TheWebDev
  * Version: 1.0
  * Author URI: https://bnyakura.github.io
