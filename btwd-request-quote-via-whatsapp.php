@@ -9,10 +9,10 @@
  
  */
 
- function myplugin_enqueue_styles() {
+ function btwd_request_quote_via_whatsapp_enqueue_styles() {
     wp_enqueue_style( 'myplugin-style', plugins_url( 'css/style.css', __FILE__ ) );
 }
-add_action( 'wp_enqueue_scripts', 'myplugin_enqueue_styles' );
+add_action( 'wp_enqueue_scripts', 'btwd_request_quote_via_whatsapp_enqueue_styles' );
 
 
 function whatsapp_quote_button_shortcode( $atts ) {
